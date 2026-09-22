@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/home_screen.dart';
+import 'screens/splash_screen.dart';
 import 'state/prefs.dart';
 import 'theme/app_theme.dart';
 
@@ -15,10 +15,10 @@ class IskonApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Shloka Saathi',
+      title: 'Shlok Saarthi',
       debugShowCheckedModeBanner: false,
       theme: buildAppTheme(),
-      home: const HomeScreen(),
+      home: const SplashScreen(),
     );
   }
 }

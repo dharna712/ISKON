@@ -5,7 +5,28 @@ Living context file, updated as decisions get made. See
 reference app, and [NEW_APP_REQUIREMENTS.md](NEW_APP_REQUIREMENTS.md) for
 the brief as given.
 
-## Status: v1 core loop built and verified working
+## Status: v1 core loop built and redesigned, verified working
+
+- **2026-09-22** — Full UI/UX redesign: app renamed "ISKON" → **Shlok
+  Saarthi** everywhere (splash, header, Android label, iOS bundle name).
+  New peacock-feather/Krishna-inspired palette (peacock teal/emerald
+  primary, royal purple secondary, bronze/gold accents) replaces the old
+  marigold/sand theme — defined once in `AppColors`
+  (`app/lib/theme/app_theme.dart`), cascades to every screen since they
+  all reference those constants rather than hardcoded colors. Added a
+  gradient splash screen with the provided logo
+  (`app/assets/images/logo.jpg`) and fade-in animation. Home screen
+  rebuilt: gradient header with logo, horizontal feature-card row (Learn /
+  Listen / Translate / Quiz / Scriptures), and the flat verse list
+  replaced with a collapsible chapter accordion (`app/lib/data/
+  gita_chapters.dart` holds the standard 18 Gītā chapter titles/blurbs;
+  verses are grouped by chapter parsed from their name, e.g. "BG 2.7" →
+  ch. 2). Each accordion shows a progress bar and "Continue Learning"
+  button that jumps to the first unmastered verse. Existing navigation
+  logic, data model, and all screen functionality (audio, quiz, Hindi
+  toggle, mastery tracking) untouched — this was a reskin + home-screen
+  restructure, not a functional rewrite. Verified end-to-end again via
+  Flutter web build after the redesign.
 
 - **2026-09-22** — Reverse-engineered the reference APK
   (`shloka-saathi.apk`). Extracted its full content model to
@@ -61,6 +82,10 @@ the brief as given.
 4. Verse audio for verses beyond the 27 BG / 2 Īśopaniṣad already
    recorded in the reference app is still needed for fuller coverage —
    same gap noted in `OLD_APP_ANALYSIS.md`.
+5. **App launcher icon** still uses the Flutter default — the redesign
+   covers in-app UI (splash, header) but regenerating the actual home-
+   screen icon across all mipmap densities wasn't done yet (would use
+   `flutter_launcher_icons` + the same logo).
 
 ## People
 

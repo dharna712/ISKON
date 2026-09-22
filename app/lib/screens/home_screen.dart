@@ -200,19 +200,28 @@ class _SimpleBookSection extends StatelessWidget {
   Widget build(BuildContext context) {
     final masteredCount = verses.where((v) => AppPrefs.instance.isMastered(v.id)).length;
     return Padding(
-      padding: const EdgeInsets.fromLTRB(20, 0, 20, 12),
-      child: _AccordionCard(
-        title: title,
-        subtitle: '${verses.length} verses',
-        blurb: blurb,
-        progressLabel: '$masteredCount / ${verses.length} shlokas completed',
-        progress: verses.isEmpty ? 0 : masteredCount / verses.length,
+      padding: const EdgeInsets.fromLTRB(20, 8, 20, 4),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          for (final v in verses) _VerseRow(verse: v, onTap: () => onOpenVerse(v)),
+          Text(title, style: appHeadingStyle(fontSize: 16)),
+          const SizedBox(height: 2),
+          const Text('18 verses • principal Upaniṣad', style: TextStyle(color: AppColors.soft, fontSize: 12.5)),
+          const SizedBox(height: 12),
+          _AccordionCard(
+            title: 'Complete Text',
+            subtitle: '${verses.length} of 18 verses available',
+            blurb: blurb,
+            progressLabel: '$masteredCount / ${verses.length} shlokas completed',
+            progress: verses.isEmpty ? 0 : masteredCount / verses.length,
+            children: [
+              for (final v in verses) _VerseRow(verse: v, onTap: () => onOpenVerse(v)),
+            ],
+            onContinue: () => onOpenVerse(
+              verses.firstWhere((v) => !AppPrefs.instance.isMastered(v.id), orElse: () => verses.first),
+            ),
+          ),
         ],
-        onContinue: () => onOpenVerse(
-          verses.firstWhere((v) => !AppPrefs.instance.isMastered(v.id), orElse: () => verses.first),
-        ),
       ),
     );
   }

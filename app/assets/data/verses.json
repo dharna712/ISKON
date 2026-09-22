@@ -1,0 +1,682 @@
+[
+  {
+    "id": "bg-2-7", "name": "BG 2.7", "book": "bg", "sub": "kārpaṇya-doṣopahata-svabhāvaḥ", "badge": "गी",
+    "lines": ["kārpaṇya-doṣopahata-svabhāvaḥ", "pṛcchāmi tvāṁ dharma-sammūḍha-cetāḥ", "yac chreyaḥ syān niścitaṁ brūhi tan me", "śiṣyas te 'haṁ śādhi māṁ tvāṁ prapannam"],
+    "words": [
+      {"sa": "kārpaṇya-doṣa", "en": "the fault/weakness of miserliness", "hi": "कृपणता का दोष"},
+      {"sa": "upahata", "en": "afflicted", "hi": "ग्रस्त"},
+      {"sa": "svabhāvaḥ", "en": "nature/disposition", "hi": "स्वभाव"},
+      {"sa": "pṛcchāmi", "en": "I ask", "hi": "मैं पूछता हूँ"},
+      {"sa": "tvām", "en": "You", "hi": "आपसे"},
+      {"sa": "dharma", "en": "regarding duty", "hi": "धर्म के विषय में"},
+      {"sa": "sammūḍha", "en": "bewildered", "hi": "मोहित"},
+      {"sa": "cetāḥ", "en": "in mind", "hi": "मन में"},
+      {"sa": "yat", "en": "what", "hi": "जो"},
+      {"sa": "śreyaḥ", "en": "is truly good/beneficial", "hi": "कल्याणकारी"},
+      {"sa": "syāt", "en": "may be", "hi": "हो"},
+      {"sa": "niścitam", "en": "definitely", "hi": "निश्चित रूप से"},
+      {"sa": "brūhi", "en": "tell", "hi": "कहिए"},
+      {"sa": "tat", "en": "that", "hi": "वह"},
+      {"sa": "me", "en": "to me", "hi": "मुझे"},
+      {"sa": "śiṣyaḥ", "en": "disciple", "hi": "शिष्य"},
+      {"sa": "te", "en": "Your", "hi": "आपका"},
+      {"sa": "aham", "en": "I", "hi": "मैं"},
+      {"sa": "śādhi", "en": "instruct", "hi": "उपदेश दीजिए"},
+      {"sa": "mām", "en": "me", "hi": "मुझे"},
+      {"sa": "tvām", "en": "to You", "hi": "आपकी"},
+      {"sa": "prapannam", "en": "surrendered", "hi": "शरणागत"}
+    ],
+    "translation": {
+      "en": "My very nature is overcome by the weakness of pity, and my mind is confused about where my duty lies. I am asking You — please tell me clearly what is truly best for me. I am now Your student; I have surrendered to You. Please guide me.",
+      "hi": "कृपणता के दोष से मेरा स्वभाव अभिभूत हो गया है और मेरा मन धर्म के विषय में मोहग्रस्त है। मैं आपसे पूछ रहा हूँ, कृपया निश्चित रूप से बताइए कि मेरे लिए क्या श्रेयस्कर है। मैं अब आपका शिष्य हूँ; मैंने आपकी शरण ली है, कृपया मुझे शिक्षा दीजिए।"
+    },
+    "audioUrl": "audio/2.7_final.m4a"
+  },
+  {
+    "id": "bg-2-13", "name": "BG 2.13", "book": "bg", "sub": "dehino 'smin yathā dehe", "badge": "गी",
+    "lines": ["dehino 'smin yathā dehe", "kaumāraṁ yauvanaṁ jarā", "tathā dehāntara-prāptir", "dhīras tatra na muhyati"],
+    "words": [
+      {"sa": "dehinaḥ", "en": "of the embodied soul", "hi": "देहधारी आत्मा का"},
+      {"sa": "asmin", "en": "in this", "hi": "इस"},
+      {"sa": "yathā", "en": "as", "hi": "जिस प्रकार"},
+      {"sa": "dehe", "en": "in the body", "hi": "शरीर में"},
+      {"sa": "kaumāram", "en": "childhood", "hi": "बाल्यावस्था"},
+      {"sa": "yauvanam", "en": "youth", "hi": "यौवन"},
+      {"sa": "jarā", "en": "old age", "hi": "वृद्धावस्था"},
+      {"sa": "tathā", "en": "similarly", "hi": "उसी प्रकार"},
+      {"sa": "deha-antara", "en": "a different body", "hi": "दूसरे शरीर की"},
+      {"sa": "prāptiḥ", "en": "the attaining of", "hi": "प्राप्ति"},
+      {"sa": "dhīraḥ", "en": "the steady/wise person", "hi": "धीर पुरुष"},
+      {"sa": "tatra", "en": "at that (change)", "hi": "उस परिवर्तन पर"},
+      {"sa": "na muhyati", "en": "is not bewildered", "hi": "मोहित नहीं होता"}
+    ],
+    "translation": {
+      "en": "Just as the soul within this body passes through childhood, youth, and old age, so too it passes into another body at death. A person of steady wisdom is not disturbed by this change.",
+      "hi": "जिस प्रकार देहधारी आत्मा इस शरीर में बाल्यावस्था, युवावस्था और वृद्धावस्था से होकर गुजरती है, उसी प्रकार मृत्यु के समय वह दूसरे शरीर को प्राप्त होती है। धीर पुरुष इस परिवर्तन से विचलित नहीं होता।"
+    },
+    "audioUrl": "audio/2.13_final.m4a"
+  },
+  {
+    "id": "bg-2-20", "name": "BG 2.20", "book": "bg", "sub": "na jāyate mriyate vā kadācin", "badge": "गी",
+    "lines": ["na jāyate mriyate vā kadācin", "nāyaṁ bhūtvā bhavitā vā na bhūyaḥ", "ajo nityaḥ śāśvato 'yaṁ purāṇo", "na hanyate hanyamāne śarīre"],
+    "words": [
+      {"sa": "na jāyate", "en": "is never born", "hi": "जन्म नहीं लेती"},
+      {"sa": "mriyate", "en": "dies", "hi": "मरती है"},
+      {"sa": "vā", "en": "or", "hi": "अथवा"},
+      {"sa": "kadācit", "en": "at any time", "hi": "कभी भी"},
+      {"sa": "na ayam", "en": "this (soul) never", "hi": "यह आत्मा कभी नहीं"},
+      {"sa": "bhūtvā", "en": "having come into being", "hi": "उत्पन्न होकर"},
+      {"sa": "bhavitā", "en": "will come to be", "hi": "होगी"},
+      {"sa": "vā na bhūyaḥ", "en": "or cease to be again", "hi": "अथवा फिर नहीं होगी"},
+      {"sa": "ajaḥ", "en": "unborn", "hi": "अजन्मा"},
+      {"sa": "nityaḥ", "en": "eternal", "hi": "नित्य"},
+      {"sa": "śāśvataḥ", "en": "permanent", "hi": "शाश्वत"},
+      {"sa": "ayam", "en": "this", "hi": "यह"},
+      {"sa": "purāṇaḥ", "en": "the oldest/primeval", "hi": "पुरातन/सनातन"},
+      {"sa": "na hanyate", "en": "is not slain", "hi": "मारी नहीं जाती"},
+      {"sa": "hanyamāne śarīre", "en": "when the body is slain", "hi": "शरीर के मारे जाने पर"}
+    ],
+    "translation": {
+      "en": "The soul is never born and never dies; it does not come into being and then cease to exist. It is unborn, eternal, ever-existing, and primordial. It is not killed when the body is killed.",
+      "hi": "आत्मा न कभी जन्म लेती है और न कभी मरती है; न यह किसी समय उत्पन्न हुई है और न होगी। यह अजन्मा, नित्य, शाश्वत और पुरातन है। शरीर के मारे जाने पर भी यह मारी नहीं जाती।"
+    },
+    "audioUrl": "audio/2.20_final.m4a"
+  },
+  {
+    "id": "bg-2-44", "name": "BG 2.44", "book": "bg", "sub": "bhogaiśvarya-prasaktānāṁ", "badge": "गी",
+    "lines": ["bhogaiśvarya-prasaktānāṁ", "tayāpahṛta-cetasām", "vyavasāyātmikā buddhiḥ", "samādhau na vidhīyate"],
+    "words": [
+      {"sa": "bhoga", "en": "sense enjoyment", "hi": "भोग"},
+      {"sa": "aiśvarya", "en": "and material opulence", "hi": "और ऐश्वर्य में"},
+      {"sa": "prasaktānām", "en": "of those attached to", "hi": "आसक्त लोगों की"},
+      {"sa": "tayā", "en": "by that (talk)", "hi": "उस वाणी से"},
+      {"sa": "apahṛta-cetasām", "en": "whose minds are carried away", "hi": "जिनका मन हर लिया गया है"},
+      {"sa": "vyavasāya-ātmikā", "en": "resolute, single-pointed", "hi": "दृढ़ निश्चयात्मक"},
+      {"sa": "buddhiḥ", "en": "intelligence", "hi": "बुद्धि"},
+      {"sa": "samādhau", "en": "in deep meditation/steady concentration", "hi": "समाधि में"},
+      {"sa": "na vidhīyate", "en": "is not established", "hi": "स्थिर नहीं होती"}
+    ],
+    "translation": {
+      "en": "For those whose minds are captivated by such talk, who are attached to sense enjoyment and worldly position, a resolute, one-pointed determination directed toward the Self does not arise.",
+      "hi": "जो लोग भोग और ऐश्वर्य में अत्यधिक आसक्त हैं और जिनका मन ऐसी बातों से मोहित हो चुका है, उनकी बुद्धि में परमात्मा के प्रति दृढ़ निश्चय स्थिर नहीं हो पाता।"
+    },
+    "audioUrl": "audio/2.44_final.m4a"
+  },
+  {
+    "id": "bg-3-27", "name": "BG 3.27", "book": "bg", "sub": "prakṛteḥ kriyamāṇāni", "badge": "गी",
+    "lines": ["prakṛteḥ kriyamāṇāni", "guṇaiḥ karmāṇi sarvaśaḥ", "ahaṅkāra-vimūḍhātmā", "kartāham iti manyate"],
+    "words": [
+      {"sa": "prakṛteḥ", "en": "of material nature", "hi": "प्रकृति के"},
+      {"sa": "kriyamāṇāni", "en": "being performed", "hi": "किए जाते हुए"},
+      {"sa": "guṇaiḥ", "en": "by the three modes", "hi": "गुणों द्वारा"},
+      {"sa": "karmāṇi", "en": "actions", "hi": "कर्म"},
+      {"sa": "sarvaśaḥ", "en": "in all respects", "hi": "सभी प्रकार से"},
+      {"sa": "ahaṅkāra-vimūḍha", "en": "bewildered by false ego", "hi": "अहंकार से मोहित"},
+      {"sa": "ātmā", "en": "a person", "hi": "व्यक्ति"},
+      {"sa": "kartā", "en": "the doer", "hi": "कर्ता"},
+      {"sa": "aham", "en": "I", "hi": "मैं"},
+      {"sa": "iti", "en": "thus", "hi": "ऐसा"},
+      {"sa": "manyate", "en": "thinks", "hi": "मानता है"}
+    ],
+    "translation": {
+      "en": "All actions are, in truth, performed by the modes of material nature. But one whose mind is bewildered by false ego thinks, 'I am the doer.'",
+      "hi": "सभी कर्म वास्तव में प्रकृति के गुणों द्वारा किए जाते हैं। परन्तु अहंकार से मोहित व्यक्ति यह सोचता है, 'मैं ही कर्ता हूँ।'"
+    },
+    "audioUrl": "audio/3.27_final.m4a"
+  },
+  {
+    "id": "bg-4-2", "name": "BG 4.2", "book": "bg", "sub": "evaṁ paramparā-prāptam", "badge": "गी",
+    "lines": ["evaṁ paramparā-prāptam", "imaṁ rājarṣayo viduḥ", "sa kāleneha mahatā", "yogo naṣṭaḥ parantapa"],
+    "words": [
+      {"sa": "evam", "en": "thus", "hi": "इस प्रकार"},
+      {"sa": "paramparā", "en": "through disciplic/unbroken succession", "hi": "गुरु-शिष्य परम्परा से"},
+      {"sa": "prāptam", "en": "received", "hi": "प्राप्त हुआ"},
+      {"sa": "imam", "en": "this", "hi": "इस ज्ञान को"},
+      {"sa": "rāja-ṛṣayaḥ", "en": "saintly kings", "hi": "राजर्षियों ने"},
+      {"sa": "viduḥ", "en": "knew", "hi": "जाना"},
+      {"sa": "saḥ", "en": "that", "hi": "वह"},
+      {"sa": "kālena", "en": "over time", "hi": "समय के साथ"},
+      {"sa": "iha", "en": "in this world", "hi": "इस संसार में"},
+      {"sa": "mahatā", "en": "great (long)", "hi": "दीर्घ"},
+      {"sa": "yogaḥ", "en": "this science of yoga", "hi": "यह योगविद्या"},
+      {"sa": "naṣṭaḥ", "en": "lost", "hi": "नष्ट/लुप्त"},
+      {"sa": "parantapa", "en": "O chastiser of enemies (Arjuna)", "hi": "हे परंतप"}
+    ],
+    "translation": {
+      "en": "This knowledge was received in that way, passed down through an unbroken succession, and saintly kings understood it thus. But over the long passage of time, that yoga has become lost, O Parantapa.",
+      "hi": "इस प्रकार यह ज्ञान परम्परा से प्राप्त हुआ, और राजर्षियों ने इसे इसी रूप में जाना। परन्तु हे परंतप, समय की लंबी अवधि में यह योग इस संसार में लुप्त हो गया।"
+    },
+    "audioUrl": "audio/4.2_final.m4a"
+  },
+  {
+    "id": "bg-4-8", "name": "BG 4.8", "book": "bg", "sub": "paritrāṇāya sādhūnāṁ", "badge": "गी",
+    "lines": ["paritrāṇāya sādhūnāṁ", "vināśāya ca duṣkṛtām", "dharma-saṁsthāpanārthāya", "sambhavāmi yuge yuge"],
+    "words": [
+      {"sa": "paritrāṇāya", "en": "for the protection/deliverance", "hi": "रक्षा के लिए"},
+      {"sa": "sādhūnām", "en": "of the virtuous/pious", "hi": "साधुजनों की"},
+      {"sa": "vināśāya", "en": "for the destruction", "hi": "विनाश के लिए"},
+      {"sa": "ca", "en": "and", "hi": "और"},
+      {"sa": "duṣkṛtām", "en": "of the wicked/miscreants", "hi": "दुष्कर्मियों के"},
+      {"sa": "dharma", "en": "righteousness/duty", "hi": "धर्म की"},
+      {"sa": "saṁsthāpana-arthāya", "en": "for the purpose of establishing", "hi": "स्थापना के लिए"},
+      {"sa": "sambhavāmi", "en": "I appear/come into being", "hi": "मैं प्रकट होता हूँ"},
+      {"sa": "yuge yuge", "en": "in age after age", "hi": "युग-युग में"}
+    ],
+    "translation": {
+      "en": "To protect the righteous, to destroy the wicked, and to firmly re-establish dharma, I appear age after age.",
+      "hi": "साधुओं की रक्षा के लिए, दुष्टों के विनाश के लिए, और धर्म की पुनर्स्थापना के लिए मैं युग-युग में प्रकट होता हूँ।"
+    },
+    "audioUrl": "audio/BG 4.8_final.m4a"
+  },
+  {
+    "id": "bg-4-9", "name": "BG 4.9", "book": "bg", "sub": "janma karma ca me divyam", "badge": "गी",
+    "lines": ["janma karma ca me divyam", "evaṁ yo vetti tattvataḥ", "tyaktvā dehaṁ punar janma", "naiti mām eti so 'rjuna"],
+    "words": [
+      {"sa": "janma", "en": "birth", "hi": "जन्म"},
+      {"sa": "karma", "en": "activity/action", "hi": "कर्म"},
+      {"sa": "ca", "en": "and", "hi": "और"},
+      {"sa": "me", "en": "My", "hi": "मेरे"},
+      {"sa": "divyam", "en": "divine/transcendental", "hi": "दिव्य"},
+      {"sa": "evam", "en": "thus", "hi": "इस प्रकार"},
+      {"sa": "yaḥ", "en": "whoever", "hi": "जो"},
+      {"sa": "vetti", "en": "knows", "hi": "जानता है"},
+      {"sa": "tattvataḥ", "en": "in truth/reality", "hi": "तत्त्व से"},
+      {"sa": "tyaktvā", "en": "having given up", "hi": "त्यागकर"},
+      {"sa": "deham", "en": "the body", "hi": "शरीर को"},
+      {"sa": "punaḥ janma", "en": "rebirth", "hi": "पुनर्जन्म"},
+      {"sa": "na eti", "en": "does not attain", "hi": "प्राप्त नहीं होता"},
+      {"sa": "mām", "en": "Me", "hi": "मुझे"},
+      {"sa": "eti", "en": "attains", "hi": "प्राप्त होता है"},
+      {"sa": "saḥ", "en": "that person", "hi": "वह"},
+      {"sa": "arjuna", "en": "O Arjuna", "hi": "हे अर्जुन"}
+    ],
+    "translation": {
+      "en": "One who truly understands, in reality, the divine nature of My birth and activities does not, upon leaving this body, take birth again — that person comes to Me, O Arjuna.",
+      "hi": "हे अर्जुन, जो व्यक्ति मेरे जन्म और कर्म के दिव्य स्वरूप को वास्तव में तत्त्व से जानता है, वह शरीर त्यागने के बाद पुनः जन्म नहीं लेता — वह मुझे ही प्राप्त होता है।"
+    },
+    "audioUrl": "audio/BG 4.9_final.m4a"
+  },
+  {
+    "id": "bg-4-34", "name": "BG 4.34", "book": "bg", "sub": "tad viddhi praṇipātena", "badge": "गी",
+    "lines": ["tad viddhi praṇipātena", "paripraśnena sevayā", "upadekṣyanti te jñānaṁ", "jñāninas tattva-darśinaḥ"],
+    "words": [
+      {"sa": "tat", "en": "that (knowledge)", "hi": "उस ज्ञान को"},
+      {"sa": "viddhi", "en": "know/learn", "hi": "जानो"},
+      {"sa": "praṇipātena", "en": "by approaching with humility/prostration", "hi": "प्रणिपात/विनम्रता से"},
+      {"sa": "paripraśnena", "en": "by sincere/relevant inquiry", "hi": "जिज्ञासापूर्वक प्रश्न से"},
+      {"sa": "sevayā", "en": "by rendering service", "hi": "सेवा से"},
+      {"sa": "upadekṣyanti", "en": "will instruct/impart", "hi": "उपदेश देंगे"},
+      {"sa": "te", "en": "to you", "hi": "तुम्हें"},
+      {"sa": "jñānam", "en": "knowledge", "hi": "ज्ञान"},
+      {"sa": "jñāninaḥ", "en": "those who possess knowledge", "hi": "ज्ञानीजन"},
+      {"sa": "tattva-darśinaḥ", "en": "seers of the truth", "hi": "तत्त्वदर्शी"}
+    ],
+    "translation": {
+      "en": "Learn that truth by approaching a teacher with humility, by sincere inquiry, and by service. Those who possess knowledge and have seen the truth will impart that knowledge to you.",
+      "hi": "गुरु के पास जाकर विनम्रता से, जिज्ञासा से और सेवा से उस ज्ञान को जानो। तत्त्वदर्शी ज्ञानीजन तुम्हें उस ज्ञान का उपदेश देंगे।"
+    },
+    "audioUrl": "audio/BG 4.34_final.m4a"
+  },
+  {
+    "id": "bg-5-22", "name": "BG 5.22", "book": "bg", "sub": "ye hi saṁsparśajā bhogā", "badge": "गी",
+    "lines": ["ye hi saṁsparśajā bhogā", "duḥkha-yonaya eva te", "ādy-antavantaḥ kaunteya", "na teṣu ramate budhaḥ"],
+    "words": [
+      {"sa": "ye", "en": "which", "hi": "जो"},
+      {"sa": "hi", "en": "indeed", "hi": "निश्चय ही"},
+      {"sa": "saṁsparśa-jāḥ", "en": "born of contact with the senses", "hi": "इन्द्रिय-संपर्क से उत्पन्न"},
+      {"sa": "bhogāḥ", "en": "enjoyments", "hi": "भोग"},
+      {"sa": "duḥkha-yonayaḥ", "en": "sources of misery", "hi": "दुःख के स्रोत"},
+      {"sa": "eva", "en": "certainly", "hi": "निश्चय ही"},
+      {"sa": "te", "en": "they", "hi": "वे"},
+      {"sa": "ādi-antavantaḥ", "en": "having a beginning and an end", "hi": "आदि और अंत वाले"},
+      {"sa": "kaunteya", "en": "O son of Kuntī", "hi": "हे कुन्ती-पुत्र"},
+      {"sa": "na", "en": "never", "hi": "नहीं"},
+      {"sa": "teṣu", "en": "in them", "hi": "उनमें"},
+      {"sa": "ramate", "en": "takes delight", "hi": "रमण करता है"},
+      {"sa": "budhaḥ", "en": "the wise person", "hi": "बुद्धिमान पुरुष"}
+    ],
+    "translation": {
+      "en": "Pleasures that arise from contact with the senses are, indeed, sources of suffering — they have a beginning and an end. A wise person, O Kaunteya, does not delight in them.",
+      "hi": "जो भोग इन्द्रियों के संपर्क से उत्पन्न होते हैं, वे निश्चय ही दुःख के स्रोत हैं — उनका आदि और अंत है। हे कौन्तेय, बुद्धिमान पुरुष उनमें रमण नहीं करता।"
+    },
+    "audioUrl": "audio/BG 5.22_final.m4a"
+  },
+  {
+    "id": "bg-5-29", "name": "BG 5.29", "book": "bg", "sub": "bhoktāraṁ yajña-tapasāṁ", "badge": "गी",
+    "lines": ["bhoktāraṁ yajña-tapasāṁ", "sarva-loka-maheśvaram", "suhṛdaṁ sarva-bhūtānāṁ", "jñātvā māṁ śāntim ṛcchati"],
+    "words": [
+      {"sa": "bhoktāram", "en": "the enjoyer/recipient", "hi": "भोक्ता"},
+      {"sa": "yajña", "en": "of sacrifices", "hi": "यज्ञों का"},
+      {"sa": "tapasām", "en": "and austerities", "hi": "और तपस्याओं का"},
+      {"sa": "sarva-loka", "en": "of all worlds/planets", "hi": "सभी लोकों का"},
+      {"sa": "mahā-īśvaram", "en": "the supreme controller", "hi": "परम ईश्वर"},
+      {"sa": "suhṛdam", "en": "the friend/well-wisher", "hi": "सुहृद/मित्र"},
+      {"sa": "sarva-bhūtānām", "en": "of all living beings", "hi": "सभी जीवों का"},
+      {"sa": "jñātvā", "en": "having known", "hi": "जानकर"},
+      {"sa": "mām", "en": "Me", "hi": "मुझे"},
+      {"sa": "śāntim", "en": "peace", "hi": "शांति"},
+      {"sa": "ṛcchati", "en": "attains", "hi": "प्राप्त करता है"}
+    ],
+    "translation": {
+      "en": "Knowing Me as the recipient of all sacrifice and austerity, the supreme Lord of all worlds, and the true friend of every living being, one attains peace.",
+      "hi": "यज्ञ और तप का भोक्ता, सभी लोकों का परम ईश्वर, तथा समस्त जीवों का सुहृद — मुझे इस प्रकार जानकर मनुष्य शांति को प्राप्त होता है।"
+    },
+    "audioUrl": "audio/BG 5.29_final.m4a"
+  },
+  {
+    "id": "bg-6-47", "name": "BG 6.47", "book": "bg", "sub": "yoginām api sarveṣāṁ", "badge": "गी",
+    "lines": ["yoginām api sarveṣāṁ", "mad-gatenāntar-ātmanā", "śraddhāvān bhajate yo māṁ", "sa me yuktatamo mataḥ"],
+    "words": [
+      {"sa": "yoginām", "en": "of yogīs", "hi": "योगियों में से"},
+      {"sa": "api", "en": "even", "hi": "भी"},
+      {"sa": "sarveṣām", "en": "of all", "hi": "सभी"},
+      {"sa": "mat-gatena", "en": "fixed on Me", "hi": "मुझमें लगे हुए"},
+      {"sa": "antara-ātmanā", "en": "with the inner self/mind", "hi": "अंतःकरण से"},
+      {"sa": "śraddhāvān", "en": "full of faith", "hi": "श्रद्धावान"},
+      {"sa": "bhajate", "en": "worships/renders devotion", "hi": "भजन करता है"},
+      {"sa": "yaḥ", "en": "who", "hi": "जो"},
+      {"sa": "mām", "en": "Me", "hi": "मुझको"},
+      {"sa": "saḥ", "en": "that person", "hi": "वह"},
+      {"sa": "me", "en": "by Me", "hi": "मेरे द्वारा"},
+      {"sa": "yukta-tamaḥ", "en": "the most united/perfect in yoga", "hi": "सर्वश्रेष्ठ योगी"},
+      {"sa": "mataḥ", "en": "is considered", "hi": "माना जाता है"}
+    ],
+    "translation": {
+      "en": "And of all yogīs, the one who worships Me with faith, their inner self absorbed in Me, is considered by Me to be the most perfectly united in yoga.",
+      "hi": "सभी योगियों में से जो श्रद्धावान होकर अपने अंतःकरण को मुझमें लगाकर मेरी भक्ति करता है, वह मेरे मत में सबसे उत्तम योगी है।"
+    },
+    "audioUrl": "audio/BG 6.47_final.m4a"
+  },
+  {
+    "id": "bg-7-5", "name": "BG 7.5", "book": "bg", "sub": "apareyam itas tv anyāṁ", "badge": "गी",
+    "lines": ["apareyam itas tv anyāṁ", "prakṛtiṁ viddhi me parām", "jīva-bhūtāṁ mahā-bāho", "yayedaṁ dhāryate jagat"],
+    "words": [
+      {"sa": "aparā", "en": "inferior", "hi": "अपरा/निम्न"},
+      {"sa": "iyam", "en": "this", "hi": "यह"},
+      {"sa": "itaḥ", "en": "besides this", "hi": "इससे परे"},
+      {"sa": "tu", "en": "but", "hi": "परन्तु"},
+      {"sa": "anyām", "en": "another", "hi": "दूसरी"},
+      {"sa": "prakṛtim", "en": "nature", "hi": "प्रकृति को"},
+      {"sa": "viddhi", "en": "know", "hi": "जानो"},
+      {"sa": "me", "en": "My", "hi": "मेरी"},
+      {"sa": "parām", "en": "superior", "hi": "श्रेष्ठ"},
+      {"sa": "jīva-bhūtām", "en": "comprising the living entities", "hi": "जीवरूप"},
+      {"sa": "mahā-bāho", "en": "O mighty-armed one", "hi": "हे महाबाहो"},
+      {"sa": "yayā", "en": "by which", "hi": "जिससे"},
+      {"sa": "idam", "en": "this", "hi": "यह"},
+      {"sa": "dhāryate", "en": "is sustained/upheld", "hi": "धारण किया जाता है"},
+      {"sa": "jagat", "en": "the world", "hi": "जगत"}
+    ],
+    "translation": {
+      "en": "This is My lower nature. But beyond it, know that I have another, higher nature, O mighty-armed one — the living beings, by whom this whole world is sustained.",
+      "hi": "यह मेरी अपरा (निम्न) प्रकृति है। परन्तु हे महाबाहो, इससे परे मेरी एक और श्रेष्ठ प्रकृति है — वे जीव, जिनके द्वारा यह सम्पूर्ण जगत धारण किया जाता है।"
+    },
+    "audioUrl": "audio/BG 7.5_final.m4a"
+  },
+  {
+    "id": "bg-7-14", "name": "BG 7.14", "book": "bg", "sub": "daivī hy eṣā guṇamayī", "badge": "गी",
+    "lines": ["daivī hy eṣā guṇamayī", "mama māyā duratyayā", "mām eva ye prapadyante", "māyām etāṁ taranti te"],
+    "words": [
+      {"sa": "daivī", "en": "divine", "hi": "दैवी"},
+      {"sa": "hi", "en": "indeed", "hi": "निश्चय ही"},
+      {"sa": "eṣā", "en": "this", "hi": "यह"},
+      {"sa": "guṇa-mayī", "en": "composed of/made from the three modes", "hi": "तीन गुणों से बनी"},
+      {"sa": "mama", "en": "My", "hi": "मेरी"},
+      {"sa": "māyā", "en": "illusory energy", "hi": "माया"},
+      {"sa": "duratyayā", "en": "very difficult to overcome/cross", "hi": "दुस्तर"},
+      {"sa": "mām", "en": "Me", "hi": "मुझको"},
+      {"sa": "eva", "en": "only", "hi": "केवल"},
+      {"sa": "ye", "en": "those who", "hi": "जो"},
+      {"sa": "prapadyante", "en": "surrender", "hi": "शरण लेते हैं"},
+      {"sa": "māyām etām", "en": "this māyā", "hi": "इस माया को"},
+      {"sa": "taranti", "en": "cross over", "hi": "पार कर जाते हैं"},
+      {"sa": "te", "en": "they", "hi": "वे"}
+    ],
+    "translation": {
+      "en": "This divine energy of Mine, composed of the three modes of nature, is very difficult to overcome. But those who surrender to Me alone cross beyond this māyā.",
+      "hi": "मेरी यह त्रिगुणमयी दैवी माया अत्यंत दुस्तर है। परन्तु जो लोग केवल मेरी शरण लेते हैं, वे इस माया को पार कर जाते हैं।"
+    },
+    "audioUrl": "audio/BG 7.14_final.m4a"
+  },
+  {
+    "id": "bg-7-19", "name": "BG 7.19", "book": "bg", "sub": "bahūnāṁ janmanām ante", "badge": "गी",
+    "lines": ["bahūnāṁ janmanām ante", "jñānavān māṁ prapadyate", "vāsudevaḥ sarvam iti", "sa mahātmā su-durlabhaḥ"],
+    "words": [
+      {"sa": "bahūnām", "en": "of many", "hi": "अनेक"},
+      {"sa": "janmanām", "en": "births", "hi": "जन्मों के"},
+      {"sa": "ante", "en": "at the end", "hi": "अंत में"},
+      {"sa": "jñāna-vān", "en": "one who possesses knowledge", "hi": "ज्ञानवान"},
+      {"sa": "mām", "en": "to Me", "hi": "मेरी"},
+      {"sa": "prapadyate", "en": "surrenders", "hi": "शरण लेता है"},
+      {"sa": "vāsudevaḥ", "en": "Vāsudeva (the Supreme)", "hi": "वासुदेव"},
+      {"sa": "sarvam", "en": "everything", "hi": "सब कुछ"},
+      {"sa": "iti", "en": "thus (understanding)", "hi": "ऐसा समझकर"},
+      {"sa": "saḥ", "en": "that", "hi": "वह"},
+      {"sa": "mahā-ātmā", "en": "great soul", "hi": "महात्मा"},
+      {"sa": "su-durlabhaḥ", "en": "very rare to find", "hi": "अत्यंत दुर्लभ"}
+    ],
+    "translation": {
+      "en": "After many births, the one who has attained true knowledge surrenders to Me, understanding that Vāsudeva is everything. Such a great soul is very rare.",
+      "hi": "अनेक जन्मों के अंत में, ज्ञानवान पुरुष यह जानकर कि वासुदेव ही सब कुछ हैं, मेरी शरण लेता है। ऐसा महात्मा अत्यंत दुर्लभ है।"
+    },
+    "audioUrl": "audio/BG 7.19_final.m4a"
+  },
+  {
+    "id": "bg-8-5", "name": "BG 8.5", "book": "bg", "sub": "anta-kāle ca mām eva", "badge": "गी",
+    "lines": ["anta-kāle ca mām eva", "smaran muktvā kalevaram", "yaḥ prayāti sa mad-bhāvaṁ", "yāti nāsty atra saṁśayaḥ"],
+    "words": [
+      {"sa": "anta-kāle", "en": "at the time of death", "hi": "मृत्यु के समय"},
+      {"sa": "ca", "en": "and", "hi": "और"},
+      {"sa": "mām", "en": "Me", "hi": "मुझको"},
+      {"sa": "eva", "en": "only", "hi": "ही"},
+      {"sa": "smaran", "en": "remembering", "hi": "स्मरण करते हुए"},
+      {"sa": "muktvā", "en": "having left", "hi": "त्यागकर"},
+      {"sa": "kalevaram", "en": "the body", "hi": "शरीर को"},
+      {"sa": "yaḥ", "en": "whoever", "hi": "जो"},
+      {"sa": "prayāti", "en": "departs", "hi": "जाता है"},
+      {"sa": "saḥ", "en": "that person", "hi": "वह"},
+      {"sa": "mat-bhāvam", "en": "My nature/being", "hi": "मेरे स्वभाव को"},
+      {"sa": "yāti", "en": "attains", "hi": "प्राप्त होता है"},
+      {"sa": "na asti", "en": "there is not", "hi": "नहीं है"},
+      {"sa": "atra", "en": "here", "hi": "यहाँ"},
+      {"sa": "saṁśayaḥ", "en": "doubt", "hi": "संदेह"}
+    ],
+    "translation": {
+      "en": "Whoever, at the time of death, leaves the body remembering Me alone attains My nature. Of this there is no doubt.",
+      "hi": "जो व्यक्ति मृत्यु के समय केवल मेरा स्मरण करते हुए शरीर त्यागता है, वह मेरे स्वभाव को प्राप्त होता है — इसमें कोई संदेह नहीं है।"
+    },
+    "audioUrl": "audio/BG 8.5_final.m4a"
+  },
+  {
+    "id": "bg-8-16", "name": "BG 8.16", "book": "bg", "sub": "ā-brahma-bhuvanāl lokāḥ", "badge": "गी",
+    "lines": ["ā-brahma-bhuvanāl lokāḥ", "punar āvartino 'rjuna", "mām upetya tu kaunteya", "punar janma na vidyate"],
+    "words": [
+      {"sa": "ā-brahma-bhuvanāt", "en": "up to the abode of Brahmā", "hi": "ब्रह्मलोक तक"},
+      {"sa": "lokāḥ", "en": "the worlds/planets", "hi": "लोक"},
+      {"sa": "punaḥ-āvartinaḥ", "en": "subject to return (rebirth)", "hi": "पुनः लौटने वाले"},
+      {"sa": "arjuna", "en": "O Arjuna", "hi": "हे अर्जुन"},
+      {"sa": "mām", "en": "Me", "hi": "मुझको"},
+      {"sa": "upetya", "en": "having reached/attained", "hi": "प्राप्त करके"},
+      {"sa": "tu", "en": "but", "hi": "परन्तु"},
+      {"sa": "kaunteya", "en": "O son of Kuntī", "hi": "हे कौन्तेय"},
+      {"sa": "punaḥ janma", "en": "rebirth", "hi": "पुनर्जन्म"},
+      {"sa": "na vidyate", "en": "does not exist", "hi": "नहीं होता"}
+    ],
+    "translation": {
+      "en": "All the worlds up to the abode of Brahmā are subject to repeated birth and death, O Arjuna. But one who attains Me, O Kaunteya, never takes birth again.",
+      "hi": "हे अर्जुन, ब्रह्मलोक तक के सभी लोक पुनः लौटने के अधीन हैं। परन्तु हे कौन्तेय, मुझे प्राप्त करने पर पुनर्जन्म नहीं होता।"
+    },
+    "audioUrl": "audio/BG 8.16_final.m4a"
+  },
+  {
+    "id": "bg-9-2", "name": "BG 9.2", "book": "bg", "sub": "rāja-vidyā rāja-guhyaṁ", "badge": "गी",
+    "lines": ["rāja-vidyā rāja-guhyaṁ", "pavitram idam uttamam", "pratyakṣāvagamaṁ dharmyaṁ", "su-sukhaṁ kartum avyayam"],
+    "words": [
+      {"sa": "rāja-vidyā", "en": "the king of knowledge/education", "hi": "विद्याओं का राजा"},
+      {"sa": "rāja-guhyam", "en": "the king of confidential/secret knowledge", "hi": "रहस्यों का राजा"},
+      {"sa": "pavitram", "en": "pure", "hi": "पवित्र"},
+      {"sa": "idam", "en": "this", "hi": "यह"},
+      {"sa": "uttamam", "en": "supreme/best", "hi": "सर्वोत्तम"},
+      {"sa": "pratyakṣa-avagamam", "en": "directly perceivable/realizable", "hi": "प्रत्यक्ष अनुभवगम्य"},
+      {"sa": "dharmyam", "en": "in accordance with righteousness", "hi": "धर्मानुकूल"},
+      {"sa": "su-sukham", "en": "very easy/joyful", "hi": "अत्यंत सुखपूर्वक"},
+      {"sa": "kartum", "en": "to perform", "hi": "करने योग्य"},
+      {"sa": "avyayam", "en": "imperishable/never diminishing", "hi": "अविनाशी"}
+    ],
+    "translation": {
+      "en": "This is the king of all knowledge, the most confidential of secrets, the purest and highest teaching. It is directly realizable, in accord with dharma, joyful to practice, and imperishable.",
+      "hi": "यह समस्त विद्याओं का राजा, समस्त रहस्यों में सबसे गोपनीय, परम पवित्र, प्रत्यक्ष अनुभव करने योग्य, धर्मयुक्त, अत्यंत सुखपूर्वक करने योग्य और अविनाशी है।"
+    },
+    "audioUrl": "audio/BG 9.2_final.m4a"
+  },
+  {
+    "id": "bg-9-4", "name": "BG 9.4", "book": "bg", "sub": "mayā tatam idaṁ sarvaṁ", "badge": "गी",
+    "lines": ["mayā tatam idaṁ sarvaṁ", "jagad avyakta-mūrtinā", "mat-sthāni sarva-bhūtāni", "na cāhaṁ teṣv avasthitaḥ"],
+    "words": [
+      {"sa": "mayā", "en": "by Me", "hi": "मेरे द्वारा"},
+      {"sa": "tatam", "en": "pervaded", "hi": "व्याप्त"},
+      {"sa": "idam", "en": "this", "hi": "यह"},
+      {"sa": "sarvam", "en": "entire", "hi": "सम्पूर्ण"},
+      {"sa": "jagat", "en": "universe", "hi": "जगत"},
+      {"sa": "avyakta-mūrtinā", "en": "in My unmanifest form", "hi": "अव्यक्त स्वरूप से"},
+      {"sa": "mat-sthāni", "en": "situated in Me", "hi": "मुझमें स्थित"},
+      {"sa": "sarva-bhūtāni", "en": "all beings", "hi": "सभी प्राणी"},
+      {"sa": "na", "en": "not", "hi": "नहीं"},
+      {"sa": "ca", "en": "and", "hi": "और"},
+      {"sa": "aham", "en": "I", "hi": "मैं"},
+      {"sa": "teṣu", "en": "in them", "hi": "उनमें"},
+      {"sa": "avasthitaḥ", "en": "situated", "hi": "स्थित"}
+    ],
+    "translation": {
+      "en": "This entire universe is pervaded by Me in My unmanifest form. All beings rest in Me — yet, in truth, I am not confined within them.",
+      "hi": "यह सम्पूर्ण जगत मेरे अव्यक्त स्वरूप द्वारा व्याप्त है। सभी प्राणी मुझमें स्थित हैं, किन्तु मैं उनमें स्थित नहीं हूँ।"
+    },
+    "audioUrl": "audio/BG 9.4_final.m4a"
+  },
+  {
+    "id": "bg-9-14", "name": "BG 9.14", "book": "bg", "sub": "satataṁ kīrtayanto māṁ", "badge": "गी",
+    "lines": ["satataṁ kīrtayanto māṁ", "yatantaś ca dṛḍha-vratāḥ", "namasyantaś ca māṁ bhaktyā", "nitya-yuktā upāsate"],
+    "words": [
+      {"sa": "satatam", "en": "constantly", "hi": "सदैव"},
+      {"sa": "kīrtayantaḥ", "en": "glorifying/chanting", "hi": "कीर्तन करते हुए"},
+      {"sa": "mām", "en": "Me", "hi": "मेरा"},
+      {"sa": "yatantaḥ", "en": "striving/making effort", "hi": "प्रयत्न करते हुए"},
+      {"sa": "ca", "en": "and", "hi": "और"},
+      {"sa": "dṛḍha-vratāḥ", "en": "firm in vow", "hi": "दृढ़ व्रत वाले"},
+      {"sa": "namasyantaḥ", "en": "bowing down/offering obeisance", "hi": "नमस्कार करते हुए"},
+      {"sa": "mām", "en": "Me", "hi": "मुझे"},
+      {"sa": "bhaktyā", "en": "with devotion", "hi": "भक्तिपूर्वक"},
+      {"sa": "nitya-yuktāḥ", "en": "perpetually engaged/united", "hi": "सदा युक्त"},
+      {"sa": "upāsate", "en": "worship", "hi": "उपासना करते हैं"}
+    ],
+    "translation": {
+      "en": "Constantly glorifying Me, striving with firm resolve, bowing down before Me with devotion, they worship Me, ever united in this practice.",
+      "hi": "सदैव मेरा कीर्तन करते हुए, दृढ़ व्रत के साथ प्रयत्नशील रहते हुए, भक्तिपूर्वक मुझे नमन करते हुए, वे नित्ययुक्त होकर मेरी उपासना करते हैं।"
+    },
+    "audioUrl": "audio/BG 9.14_final.m4a"
+  },
+  {
+    "id": "bg-13-22", "name": "BG 13.22", "book": "bg", "sub": "puruṣaḥ prakṛti-stho hi", "badge": "गी",
+    "lines": ["puruṣaḥ prakṛti-stho hi", "bhuṅkte prakṛti-jān guṇān", "kāraṇaṁ guṇa-saṅgo 'sya", "sad-asad-yoni-janmasu"],
+    "words": [
+      {"sa": "puruṣaḥ", "en": "the living being/self", "hi": "जीव"},
+      {"sa": "prakṛti-sthaḥ", "en": "situated in material nature", "hi": "प्रकृति में स्थित"},
+      {"sa": "hi", "en": "indeed", "hi": "निश्चय ही"},
+      {"sa": "bhuṅkte", "en": "experiences/enjoys", "hi": "भोगता है"},
+      {"sa": "prakṛti-jān", "en": "born of material nature", "hi": "प्रकृति से उत्पन्न"},
+      {"sa": "guṇān", "en": "the modes", "hi": "गुणों को"},
+      {"sa": "kāraṇam", "en": "the cause", "hi": "कारण"},
+      {"sa": "guṇa-saṅgaḥ", "en": "attachment to the modes", "hi": "गुणों की आसक्ति"},
+      {"sa": "asya", "en": "of this (being)", "hi": "इसके"},
+      {"sa": "sat-asat", "en": "good and bad, high and low", "hi": "अच्छी-बुरी"},
+      {"sa": "yoni", "en": "species/wombs", "hi": "योनियों"},
+      {"sa": "janmasu", "en": "in births", "hi": "जन्मों में"}
+    ],
+    "translation": {
+      "en": "The living being, situated in material nature, experiences the modes born of that nature. Attachment to these modes is the cause of its taking birth in good and bad forms of life.",
+      "hi": "प्रकृति में स्थित जीव प्रकृति से उत्पन्न गुणों का भोग करता है। इन गुणों की आसक्ति ही उसके अच्छी-बुरी योनियों में जन्म लेने का कारण है।"
+    },
+    "audioUrl": "audio/BG 13.22_final.m4a"
+  },
+  {
+    "id": "bg-13-23", "name": "BG 13.23", "book": "bg", "sub": "upadraṣṭānumantā ca", "badge": "गी",
+    "lines": ["upadraṣṭānumantā ca", "bhartā bhoktā maheśvaraḥ", "paramātmeti cāpy ukto", "dehe 'smin puruṣaḥ paraḥ"],
+    "words": [
+      {"sa": "upadraṣṭā", "en": "the witness/overseer", "hi": "साक्षी"},
+      {"sa": "anumantā", "en": "the sanctioner/permitter", "hi": "अनुमति देने वाला"},
+      {"sa": "ca", "en": "and", "hi": "और"},
+      {"sa": "bhartā", "en": "the sustainer/maintainer", "hi": "पालनकर्ता"},
+      {"sa": "bhoktā", "en": "the supreme enjoyer", "hi": "भोक्ता"},
+      {"sa": "mahā-īśvaraḥ", "en": "the great controller", "hi": "महान ईश्वर"},
+      {"sa": "paramātmā", "en": "the Supreme Soul", "hi": "परमात्मा"},
+      {"sa": "iti", "en": "thus", "hi": "ऐसा"},
+      {"sa": "ca", "en": "and", "hi": "और"},
+      {"sa": "api", "en": "also", "hi": "भी"},
+      {"sa": "uktaḥ", "en": "is called", "hi": "कहा गया है"},
+      {"sa": "dehe", "en": "in the body", "hi": "शरीर में"},
+      {"sa": "asmin", "en": "this", "hi": "इस"},
+      {"sa": "puruṣaḥ", "en": "person/being", "hi": "पुरुष"},
+      {"sa": "paraḥ", "en": "the supreme, transcendent", "hi": "परम/दिव्य"}
+    ],
+    "translation": {
+      "en": "In this body there is also another, transcendent being — called the witness, the permitter, the sustainer, the supreme enjoyer, the great controller, and the Supreme Soul.",
+      "hi": "इस शरीर में एक और परम पुरुष भी है, जिसे साक्षी, अनुमन्ता, भर्ता, भोक्ता, महेश्वर और परमात्मा कहा जाता है।"
+    },
+    "audioUrl": "audio/BG 13.23_final.m4a"
+  },
+  {
+    "id": "bg-14-26", "name": "BG 14.26", "book": "bg", "sub": "māṁ ca yo 'vyabhicāreṇa", "badge": "गी",
+    "lines": ["māṁ ca yo 'vyabhicāreṇa", "bhakti-yogena sevate", "sa guṇān samatītyaitān", "brahma-bhūyāya kalpate"],
+    "words": [
+      {"sa": "mām", "en": "Me", "hi": "मेरी"},
+      {"sa": "ca", "en": "and", "hi": "और"},
+      {"sa": "yaḥ", "en": "whoever", "hi": "जो"},
+      {"sa": "avyabhicāreṇa", "en": "with unswerving/unwavering", "hi": "अविचल"},
+      {"sa": "bhakti-yogena", "en": "through devotional service", "hi": "भक्तियोग से"},
+      {"sa": "sevate", "en": "serves", "hi": "सेवा करता है"},
+      {"sa": "saḥ", "en": "that person", "hi": "वह"},
+      {"sa": "guṇān", "en": "the (three) modes", "hi": "गुणों को"},
+      {"sa": "samatītya", "en": "having fully transcended", "hi": "पूर्णतः पार करके"},
+      {"sa": "etān", "en": "these", "hi": "इन"},
+      {"sa": "brahma-bhūyāya", "en": "for becoming Brahman/for spiritual existence", "hi": "ब्रह्म-प्राप्ति के लिए"},
+      {"sa": "kalpate", "en": "becomes fit/qualified", "hi": "योग्य हो जाता है"}
+    ],
+    "translation": {
+      "en": "One who serves Me with unwavering devotion transcends these three modes of nature completely and becomes fit for realization of Brahman.",
+      "hi": "जो व्यक्ति अविचल भक्तियोग से मेरी सेवा करता है, वह इन तीनों गुणों को पूर्णतः पार करके ब्रह्म-प्राप्ति के योग्य हो जाता है।"
+    },
+    "audioUrl": "audio/BG 14.26_final.m4a"
+  },
+  {
+    "id": "bg-15-7", "name": "BG 15.7", "book": "bg", "sub": "mamaivāṁśo jīva-loke", "badge": "गी",
+    "lines": ["mamaivāṁśo jīva-loke", "jīva-bhūtaḥ sanātanaḥ", "manaḥ-ṣaṣṭhānīndriyāṇi", "prakṛti-sthāni karṣati"],
+    "words": [
+      {"sa": "mama", "en": "My", "hi": "मेरा"},
+      {"sa": "eva", "en": "indeed", "hi": "निश्चय ही"},
+      {"sa": "aṁśaḥ", "en": "a fragmental part", "hi": "अंश"},
+      {"sa": "jīva-loke", "en": "in the world of living beings", "hi": "जीव-लोक में"},
+      {"sa": "jīva-bhūtaḥ", "en": "having become a living being", "hi": "जीवरूप हुआ"},
+      {"sa": "sanātanaḥ", "en": "eternal", "hi": "सनातन"},
+      {"sa": "manaḥ-ṣaṣṭhāni", "en": "the six, mind being the sixth", "hi": "मन सहित छह"},
+      {"sa": "indriyāṇi", "en": "senses", "hi": "इन्द्रियाँ"},
+      {"sa": "prakṛti-sthāni", "en": "situated in material nature", "hi": "प्रकृति में स्थित"},
+      {"sa": "karṣati", "en": "struggles with/draws", "hi": "संघर्ष करता है"}
+    ],
+    "translation": {
+      "en": "The living beings in this world are eternal fragmental parts of Me. Bound in material nature, they struggle hard with the six senses, mind being the sixth.",
+      "hi": "इस संसार में जीव मेरे ही सनातन अंश हैं। प्रकृति में स्थित होकर वे मन सहित छह इन्द्रियों के साथ संघर्ष करते हैं।"
+    },
+    "audioUrl": "audio/BG 15.7_final.m4a"
+  },
+  {
+    "id": "bg-15-15", "name": "BG 15.15", "book": "bg", "sub": "sarvasya cāhaṁ hṛdi sanniviṣṭo", "badge": "गी",
+    "lines": ["sarvasya cāhaṁ hṛdi sanniviṣṭo", "mattaḥ smṛtir jñānam apohanaṁ ca", "vedaiś ca sarvair aham eva vedyo", "vedānta-kṛd veda-vit eva cāham"],
+    "words": [
+      {"sa": "sarvasya", "en": "of all beings", "hi": "सभी का"},
+      {"sa": "ca", "en": "and", "hi": "और"},
+      {"sa": "aham", "en": "I", "hi": "मैं"},
+      {"sa": "hṛdi", "en": "in the heart", "hi": "हृदय में"},
+      {"sa": "sanniviṣṭaḥ", "en": "seated/situated", "hi": "स्थित"},
+      {"sa": "mattaḥ", "en": "from Me", "hi": "मुझसे"},
+      {"sa": "smṛtiḥ", "en": "memory", "hi": "स्मृति"},
+      {"sa": "jñānam", "en": "knowledge", "hi": "ज्ञान"},
+      {"sa": "apohanam", "en": "forgetfulness", "hi": "विस्मृति"},
+      {"sa": "vedaiḥ", "en": "by the Vedas", "hi": "वेदों द्वारा"},
+      {"sa": "sarvaiḥ", "en": "all", "hi": "सभी"},
+      {"sa": "vedyaḥ", "en": "knowable/to be known", "hi": "जानने योग्य"},
+      {"sa": "vedānta-kṛt", "en": "the compiler of Vedānta", "hi": "वेदान्त का रचयिता"},
+      {"sa": "veda-vit", "en": "the knower of the Vedas", "hi": "वेदों का ज्ञाता"}
+    ],
+    "translation": {
+      "en": "I am seated in the hearts of all beings. From Me come memory, knowledge, and forgetfulness. I alone am that which is to be known through all the Vedas; I am indeed the author of Vedānta and the knower of the Vedas.",
+      "hi": "मैं सभी प्राणियों के हृदय में स्थित हूँ। मुझसे ही स्मृति, ज्ञान और विस्मृति होती है। सभी वेदों द्वारा मैं ही जानने योग्य हूँ; मैं ही वेदान्त का रचयिता और वेदों का ज्ञाता हूँ।"
+    },
+    "audioUrl": "audio/BG 15.15_final.m4a"
+  },
+  {
+    "id": "bg-18-54", "name": "BG 18.54", "book": "bg", "sub": "brahma-bhūtaḥ prasannātmā", "badge": "गी",
+    "lines": ["brahma-bhūtaḥ prasannātmā", "na śocati na kāṅkṣati", "samaḥ sarveṣu bhūteṣu", "mad-bhaktiṁ labhate parām"],
+    "words": [
+      {"sa": "brahma-bhūtaḥ", "en": "having realized Brahman/one's spiritual identity", "hi": "ब्रह्मभूत"},
+      {"sa": "prasanna-ātmā", "en": "joyful/serene in self", "hi": "प्रसन्न आत्मा वाला"},
+      {"sa": "na śocati", "en": "does not grieve", "hi": "शोक नहीं करता"},
+      {"sa": "na kāṅkṣati", "en": "does not desire/hanker", "hi": "कामना नहीं करता"},
+      {"sa": "samaḥ", "en": "equal-minded", "hi": "समभाव"},
+      {"sa": "sarveṣu bhūteṣu", "en": "toward all beings", "hi": "सभी प्राणियों में"},
+      {"sa": "mat-bhaktim", "en": "devotion to Me", "hi": "मेरी भक्ति को"},
+      {"sa": "labhate", "en": "attains", "hi": "प्राप्त करता है"},
+      {"sa": "parām", "en": "supreme/highest", "hi": "परम"}
+    ],
+    "translation": {
+      "en": "One who has realized Brahman becomes joyful in the self; such a person neither grieves nor desires, and, being equal-minded toward all beings, attains supreme devotion to Me.",
+      "hi": "ब्रह्मभूत, प्रसन्न आत्मा वाला व्यक्ति न शोक करता है, न कामना करता है। सभी प्राणियों के प्रति समभाव रखते हुए वह मेरी परम भक्ति को प्राप्त करता है।"
+    },
+    "audioUrl": "audio/BG 18.54_final.m4a"
+  },
+  {
+    "id": "bg-18-55", "name": "BG 18.55", "book": "bg", "sub": "bhaktyā mām abhijānāti", "badge": "गी",
+    "lines": ["bhaktyā mām abhijānāti", "yāvān yaś cāsmi tattvataḥ", "tato māṁ tattvato jñātvā", "viśate tad-anantaram"],
+    "words": [
+      {"sa": "bhaktyā", "en": "through devotion", "hi": "भक्ति के द्वारा"},
+      {"sa": "mām", "en": "Me", "hi": "मुझे"},
+      {"sa": "abhijānāti", "en": "one comes to know", "hi": "जानता है"},
+      {"sa": "yāvān", "en": "how great", "hi": "कितना महान"},
+      {"sa": "yaḥ ca asmi", "en": "and what I am", "hi": "और मैं जो हूँ"},
+      {"sa": "tattvataḥ", "en": "in truth", "hi": "तत्त्व से"},
+      {"sa": "tataḥ", "en": "thereafter", "hi": "तत्पश्चात"},
+      {"sa": "jñātvā", "en": "having known", "hi": "जानकर"},
+      {"sa": "viśate", "en": "enters", "hi": "प्रवेश करता है"},
+      {"sa": "tat-anantaram", "en": "immediately after that", "hi": "उसके तुरंत बाद"}
+    ],
+    "translation": {
+      "en": "Only through devotion can one truly know Me — how great I am and what I am in essence. And having known Me in truth, one enters into Me immediately thereafter.",
+      "hi": "भक्ति के द्वारा ही मुझे यथार्थ रूप से जाना जा सकता है कि मैं कितना महान हूँ और वास्तव में क्या हूँ। मुझे तत्त्व से जानकर मनुष्य तुरन्त मुझमें प्रवेश कर जाता है।"
+    },
+    "audioUrl": "audio/BG 18.55_final.m4a"
+  },
+  {
+    "id": "iso-invocation", "name": "ISO Invocation", "book": "iso", "sub": "oṁ pūrṇam adaḥ pūrṇam idaṁ", "badge": "ई",
+    "lines": ["oṁ pūrṇam adaḥ pūrṇam idaṁ", "pūrṇāt pūrṇam udacyate", "pūrṇasya pūrṇam ādāya", "pūrṇam evāvaśiṣyate"],
+    "words": [
+      {"sa": "oṁ", "en": "the sacred syllable/complete whole", "hi": "पवित्र प्रणव अक्षर"},
+      {"sa": "pūrṇam", "en": "complete, perfect", "hi": "पूर्ण"},
+      {"sa": "adaḥ", "en": "that (the transcendent source)", "hi": "वह (परम स्रोत)"},
+      {"sa": "idam", "en": "this (the manifest world)", "hi": "यह (प्रकट जगत)"},
+      {"sa": "pūrṇāt", "en": "from the complete", "hi": "पूर्ण से"},
+      {"sa": "udacyate", "en": "is produced/manifests", "hi": "उत्पन्न होता है"},
+      {"sa": "pūrṇasya", "en": "of the complete", "hi": "पूर्ण का"},
+      {"sa": "ādāya", "en": "having taken away", "hi": "निकाल लेने पर"},
+      {"sa": "eva", "en": "even so, still", "hi": "फिर भी"},
+      {"sa": "avaśiṣyate", "en": "remains", "hi": "शेष रहता है"}
+    ],
+    "translation": {
+      "en": "That (the Supreme) is complete and whole, and this (the manifested universe) is also complete and whole. From that completeness, this completeness has come. Even after this completeness is taken from that completeness, that completeness alone remains.",
+      "hi": "वह (परमात्मा) पूर्ण है और यह (प्रकट जगत) भी पूर्ण है। उस पूर्ण से ही यह पूर्ण उत्पन्न हुआ है। पूर्ण से पूर्ण को निकाल लेने पर भी पूर्ण ही शेष रहता है।"
+    },
+    "audioUrl": "audio/ISO Invocation_final.m4a"
+  },
+  {
+    "id": "iso-1", "name": "ISO 1", "book": "iso", "sub": "īśāvāsyam idaṁ sarvaṁ", "badge": "ई",
+    "lines": ["īśāvāsyam idaṁ sarvaṁ", "yat kiñca jagatyāṁ jagat", "tena tyaktena bhuñjīthā", "mā gṛdhaḥ kasya svid dhanam"],
+    "words": [
+      {"sa": "īśā", "en": "by the Lord", "hi": "भगवान द्वारा"},
+      {"sa": "āvāsyam", "en": "is pervaded/covered", "hi": "व्याप्त"},
+      {"sa": "idam", "en": "this", "hi": "यह"},
+      {"sa": "sarvam", "en": "everything", "hi": "सब कुछ"},
+      {"sa": "yat kiñca", "en": "whatever", "hi": "जो कुछ भी"},
+      {"sa": "jagatyām", "en": "within the universe", "hi": "जगत में"},
+      {"sa": "jagat", "en": "that is animate or inanimate", "hi": "चर-अचर"},
+      {"sa": "tena", "en": "by that", "hi": "उससे"},
+      {"sa": "tyaktena", "en": "which is set aside/renounced (as belonging to the Lord)", "hi": "त्यागे हुए भाग से"},
+      {"sa": "bhuñjīthāḥ", "en": "you should accept/enjoy", "hi": "भोग करो"},
+      {"sa": "mā gṛdhaḥ", "en": "do not covet", "hi": "लोभ मत करो"},
+      {"sa": "kasya svit", "en": "anyone's", "hi": "किसी अन्य के"},
+      {"sa": "dhanam", "en": "wealth/property", "hi": "धन का"}
+    ],
+    "translation": {
+      "en": "Everything animate or inanimate within this universe is pervaded by the Lord. One should therefore accept only what is set aside as one's own share, and not covet what belongs to another.",
+      "hi": "इस ब्रह्मांड में जो कुछ भी चर और अचर है, वह सब भगवान द्वारा व्याप्त है। अतः मनुष्य को केवल अपने भाग को स्वीकार करना चाहिए और दूसरों की सम्पत्ति का लोभ नहीं करना चाहिए।"
+    },
+    "audioUrl": "audio/Iso 1_final.m4a"
+  }
+]
